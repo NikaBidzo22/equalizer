@@ -1,0 +1,599 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    max-width: 1440px;
+    background-color:  #FCFAF9;
+}
+.forange {
+position: absolute;
+width: 384px;
+height: 384px;
+left: -146px;
+top: -112px;
+background: #FF7B40;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+}
+.ciny {
+position: absolute;
+width: 384px;
+height: 384px;
+left: 899.5px;
+top: 100.5px;
+background: #40FFF6;
+mix-blend-mode: normal;
+opacity: 0.28;
+filter: blur(67.957px);
+}
+.sorange {
+position: absolute;
+width: 384px;
+height: 384px;
+left: 899.5px;
+top: 371.5px;
+background: #FF9201;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+}
+.torange {
+position: absolute;
+width: 384px;
+height: 384px;
+left: 1083px;
+top: 1262px;
+background: #FF7B40;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+}
+.first-bg {
+height: 1832px;
+width: 1440px;
+background: #FCFAF9;
+}
+.text {
+    margin-left: 166.15px;
+    margin-top: 61.99px;
+}
+.h1 {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 88px;
+line-height: 88px;
+letter-spacing: -1px;
+color: #191826;
+margin-block-start: 0em;
+margin-block-end: 0em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+margin-top: 123px;
+margin-left: 165px;
+}
+.haveaniceday {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+color: #191826;
+width: 825px;
+margin-left: 165px;
+}
+.pattern {
+position: absolute;
+width: 312px;
+height: 468px;
+left: 1128px;
+top: -40px;
+}
+.black {
+width: 1110px;
+height: 600px;
+background: #191826;
+border-radius: 12px;
+margin-top: 321px;
+margin-left: 165px;
+}
+.why {
+margin-top: 40px;
+margin-left: 336px;
+height: 468px;
+width: 312px;
+position: relative;
+bottom: 195px;
+}
+.phone {
+height: 642px;
+width: 312px;
+position: relative;
+left: -550px;
+top: -200px;
+}
+.forsure {
+width: 446px;
+height: 625px;
+background: #FA7453;
+border-radius: 12px;
+position: relative;
+bottom: 545px;
+left: 569px;
+}
+.f {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+color: #FCFAF9;
+position: relative;
+left: 54px;
+top: 58px;
+}
+.human {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+color: #FCFAF9;
+width: 333px;
+margin-top: 68px;
+margin-left: 54px;
+}
+.four {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 52px;
+color: #FCFAF9;
+margin-top: 30px;
+margin-left: 54px;
+}
+.jigar {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: -0.2px;
+color: #FCFAF9;
+position: relative;
+bottom: 15px;
+left: 10px;
+}
+.iphone {
+width: 333px;
+height: 61px;
+left: 788px;
+top: 1389px;
+background: #191826;
+border-radius: 12px;
+position: relative;
+left: 54px;
+top: 46px;
+}
+.iphone:hover {
+    background: #66E2DC;
+}
+.fav {
+   margin-left: 96px;
+   margin-top: 20px;
+}
+.h1foriphone {
+display: inline;
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+letter-spacing: -0.18px;
+color: #FCFAF9;
+height: 32px;
+margin-bottom: 14px;
+position: relative;
+bottom: 2px;
+}
+.android {
+width: 333px;
+height: 61px;
+background: #FCFAF9;
+border-radius: 12px;
+position: relative;
+top: 62px;
+left: 54px;
+}
+.android:hover {
+    background: #FFB964;
+}
+.worse {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.last-div {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+letter-spacing: -0.18px;
+color: #191826;
+position: relative;
+top: -3px;
+}
+.logo {
+    margin-left: 166px;
+    margin-top: 202px;
+}
+.hard {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #191826;
+width: 366px;
+position: relative;
+top: -50px;
+left: 450px;
+}
+.inf {
+     font-family: 'IBM Plex Sans';
+     font-weight: 700;
+     position: relative;
+     top: -90px;
+     left: 534px;
+     width: 343px;
+     margin-right: 0;
+     margin-block-start: 0em;
+     margin-block-end: 0em;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+}
+.face,.insta,.twitter {
+    background-color: black;
+    left: 1175px;
+    top: -170px;
+}
+:root {
+    --black: #151515;
+    --grey: #444444;
+    --brick: #d5966c;
+}
+.insta {
+    color: aqua;
+    margin: 0px 20px;
+}
+.icon {
+    position: relative;
+    left: 1175px;
+    top: -170px;
+}
+ .face2 {
+    fill: #ffffff;
+    position: relative;
+    left: 1175px;
+    top: -170px;
+ }
+ .insta2 {
+    position: relative;
+    left: 1195px;
+    top: -170px;
+ }
+ .twitter2 {
+    position: relative;
+    left: 1215px;
+    top: -170px;
+ }
+ .face2:hover path{
+    fill: #FA7453;
+ }
+ .insta2:hover path{
+    fill: #FA7453;
+ }
+ .twitter2:hover path{
+    fill: #FA7453;
+ }
+ @media screen and (max-width:768px){
+    .first-bg {
+        height: 1781px;
+        width: 768px;
+        background: #FCFAF9;
+        overflow: hidden;
+        }
+    .forange {
+position: absolute;
+width: 384px;
+height: 384px;
+left: -254px;
+top: -112px;
+background: #FF7B40;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+    }
+.ciny {
+position: absolute;
+width: 384px;
+height: 384px;
+left: 345px;
+top: 41px;
+background: #40FFF6;
+mix-blend-mode: normal;
+opacity: 0.28;
+filter: blur(67.957px);
+}
+.sorange {
+position: absolute;
+width: 384px;
+height: 384px;
+left: 345px;
+top: 312px;
+background: #FF9201;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+}
+.torange {
+    width: 0;
+    height: 0;
+} 
+.text {
+height: 32px;
+width: 146.0926971435547px;
+margin-left: 39.15185546875px;
+margin-top: 61.991943359375px;
+border-radius: 0px;
+}
+.pattern {
+position: absolute;
+width: 266.67px;
+height: 400px;
+left: 537px;
+top: -32px;
+}
+.h1 {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 64px;
+letter-spacing: -0.727273px;
+color: #191826;
+margin-left: 39px;
+margin-top: 95px;
+width:450px;
+}
+.h1 br {
+    display: none;
+}
+.haveaniceday {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #191826;
+width: 514px;
+margin-left: 39px;
+}
+.black {
+width: 696px;
+height: 600px;
+background: #191826;
+border-radius: 12px;
+margin-top: 249px;
+margin-left: 33px;
+}
+.phone {
+    width: 270.21px;
+    height: 556px;
+    left: 64px;
+    top: -650px;
+}
+.why {
+    margin-top: 40px;
+    margin-left: 216px;
+    height: 468px;
+    width: 312px;
+    position: relative;
+    bottom: 105px;
+}
+.forsure {
+    bottom: 945px;
+    left: 229px;
+    width: 399px;
+    height: 546px;
+}
+.f {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+left: 48px;
+top: 48px;
+}
+.human {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+width: 302px;
+margin-left: 48px;
+margin-top: 53px;
+}
+.four {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 52px;
+margin-left: 48px;
+}
+.iphone {
+    width: 296px;
+    height: 61px;
+}
+.fav {
+    margin-left: 77px;
+}
+.android{
+    width: 296px;
+    height: 61px;
+}
+.worse {
+    margin-left: 77px;
+}
+.logo {
+    margin-top: 183px;
+    margin-left: 34px;
+}
+.hard {
+    left: 33px;
+    top: 1px;
+}
+.inf {
+    left: 120px;
+    top: -37px;
+}
+.face2,.insta2,.twitter2 {
+    left: 620px;
+    top: -90px;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width:375px){
+    .first-bg {
+        height: 1900px;
+        width: 375px;
+        overflow: hidden;
+    }
+    .forange {
+        width: 0;
+    }
+    .ciny {
+position: absolute;
+width: 211.4px;
+height: 281.4px;
+left: 159px;
+top: -104px;
+background: #40FFF6;
+mix-blend-mode: normal;
+opacity: 0.28;
+filter: blur(67.957px);
+    }
+    .sorange {
+position: absolute;
+width: 211.4px;
+height: 281.4px;
+left: 159px;
+top: 94.6px;
+background: #FF9201;
+mix-blend-mode: normal;
+opacity: 0.15;
+filter: blur(67.957px);
+    }
+    .text {
+        margin-top: 40px;
+        margin-left: 24px;
+    }
+    .h1 {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: -0.454545px;
+color: #191826;
+width: 327px;
+margin-left: 24px;
+margin-top: 64px;
+    }
+    .pattern {
+        display: none;
+    }
+    .haveaniceday {
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #191826;
+width: 327px;
+margin-left: 24px;
+    }
+    .black {
+        margin-left: 0;
+        width: 375px;
+        margin-top: 166px;
+        height: 600px;
+    }
+    .phone {
+        height: 430px;
+        width: 208.9719696044922px;
+        left: 80px;
+        top: -600px;
+    }
+    .why {
+        left: -208px;
+        top: -40px;
+
+    }
+    .forsure {
+        width: 375px;
+        height: 546px;
+        left: 0;
+        top: -600px;
+    }
+    .f {
+        left: 36px;
+    }
+    .human {
+        margin-left: 36px;
+    }
+    .four {
+        margin-left: 42px;
+    }
+    .iphone {
+        left: 42px;
+    }
+    .android {
+        left: 42px;
+    }
+    .worsre {
+        left: 62px;
+    }
+    .logo {
+        margin-top: 370px;
+        margin-left: 24px;
+    }
+    .hard {
+        left: 24px;
+        width: 327px;
+    }
+    .inf {
+        top: -17px;
+        left: 24px;
+    }
+    .face2 {
+        left: 32px;
+        top: 55px;
+    }
+    .twitter2 {
+        left: 32px;
+        top: 55px;
+    }
+    .insta2 {
+        left: 32px;
+        top: 55px;
+    }
+}
